@@ -1,0 +1,6 @@
+local.properties
+bin
+out
+build-and-deploy.sh
+.idea
+*.iml
